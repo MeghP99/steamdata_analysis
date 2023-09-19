@@ -1,8 +1,8 @@
-Steam Store Analysis Project
+# Steam Store Analysis Project
 
-We analyzed data from Steam through Steam API and SteamSpy API and derived various conlucsions from it after doing EDA, Cleansing, Transformation.
+### We analyzed data from Steam through Steam API and SteamSpy API and derived various conlucsions from it after doing EDA, Cleansing, Transformation.
 
-The derived charts:
+#### The derived charts:
 
 ![1](https://github.com/MeghP99/steamdata_analysis/assets/87923113/b6b89787-ffd8-4921-8d8b-267ecefeb2e1)
 ![2](https://github.com/MeghP99/steamdata_analysis/assets/87923113/950ba19b-c1f0-4a4e-887c-4e111e0fc008)
